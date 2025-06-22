@@ -1,0 +1,9 @@
+url,result
+example.com,⚠️ Phishing URL
+example.com,⚠️ Phishing URL
+example.com,⚠️ Phishing URL
+example.com,⚠️ Phishing URL
+example.com,⚠️ Phishing URL
+https://google.com,⚠️ Phishing URL
+https://www.google.com/,✅ Legitimate URL
+https://www.google.com/,✅ Legitimate URL
